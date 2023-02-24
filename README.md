@@ -13,4 +13,4 @@ Home URL - http://localhost:8000
 Images - 
 ![Screenshot (5)](https://user-images.githubusercontent.com/69957156/212680738-1c5dd170-5db5-4e4b-a44f-b90fae29ebdb.png)
 ![Screenshot (6)](https://user-images.githubusercontent.com/69957156/212680778-e0ec54a9-fa67-44ca-946c-9bdde730acba.png)
-![Screenshot (7)](https://user-images.githubusercontent.com/69957156/212680790-7de18ce5-ca4f-4edc-b2e1-7ba6c72fd7af.png)
+
